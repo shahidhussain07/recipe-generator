@@ -72,7 +72,7 @@ This is the backend of the AI Recipe Generator application. It uses Node.js, Exp
 ---
 
 ### **License**
-This project is licensed under the MIT License.
+This project is free to use.
 
 ---
 
