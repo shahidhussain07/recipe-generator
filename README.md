@@ -51,7 +51,7 @@ This is the backend of the AI Recipe Generator application. It uses Node.js, Exp
 
 5. **API Endpoints**
    - **POST /generateRecipe**: Generate a recipe using Gemini AI.
-     - **Payload**:
+     - **Payload (example)**:
        ```json
        {
            "ingredients": ["chicken", "onion", "garlic"],
